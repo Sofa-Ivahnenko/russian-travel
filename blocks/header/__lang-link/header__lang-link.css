@@ -1,0 +1,14 @@
+@media screen and (max-width: 1280px) {
+    .header__lang-link{
+        position: absolute;
+        max-width: 22px;
+        width:100%;
+        min-height: 20px;
+        margin: 30px 56px 0 242px;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 20px;
+        color: #FFFFFF;
+        text-decoration-line: underline;
+    }
+}
