@@ -1,0 +1,34 @@
+.place__url-heading{
+    margin: 0 0 12px 0;
+    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #AAAAAA;
+    max-width: 456px;
+}
+@media screen and (max-width: 400px) {
+    .place__url-heading{
+        padding-left: 16px;
+        padding-right: 16px;
+        width: 288px;
+    }
+}
+@media screen and (max-width: 640px) {
+    .place__url-heading{
+        padding-left: 0;
+    }
+}
+@media screen and (max-width: 767px) {
+    .place__url-heading{
+        padding-left: 0px;
+    }
+}
+@media screen and (max-width: 320px) {
+    .place__url-heading{
+        padding-left: 16px;
+    }
+}
