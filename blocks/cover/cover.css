@@ -27,11 +27,12 @@
     .cover {
         width: 100%;
         margin-left: 0;
-    }
+  }
   }
   @media screen and (max-width: 320px) {
     .cover {
         width: 100%;
         margin: 0;
-    }
   }
+  }
+
