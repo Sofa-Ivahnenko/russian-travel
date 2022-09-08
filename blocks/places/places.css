@@ -35,9 +35,10 @@
 }
 @media screen and (max-width: 640px) {
   .places {
-    padding: 64px 0 64px 24px;
+    padding: 64px 0 64px 0;
     gap: 50px;
     width: 320px;
+    margin: 0 auto;
   }
 }
 @media screen and (max-width: 373px) {
