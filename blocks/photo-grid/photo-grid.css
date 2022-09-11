@@ -11,20 +11,19 @@
     .photo-grid {
       grid-template-columns: repeat(4, auto);
       gap: 14px;
-      margin: 0;
       padding: 0 48px;
       box-sizing: border-box;
     }
   }
   
-  @media screen and (max-width: 1023px) {
+  @media screen and (max-width: 1025px) {
     .photo-grid {
       grid-template-columns: repeat(3, auto);
       padding: 0 24px;
       gap: 16px;
     }
   }
-  @media screen and (max-width: 767px) {
+  @media screen and (max-width: 769px) {
     .photo-grid {
       grid-template-columns: repeat(2, auto);
     }
