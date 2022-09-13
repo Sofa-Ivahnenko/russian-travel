@@ -24,12 +24,12 @@
   .places {
     padding: 64px 16px 64px 16px;
     gap: 50px;
-    width: 320px;
+    max-width: 400px;
   }
 }
 @media screen and (max-width: 350px) {
   .places {
-    width: 100%;
+    max-width: 320px;
     padding: 64px 0;
   }
 }

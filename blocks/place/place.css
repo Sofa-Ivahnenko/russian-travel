@@ -22,14 +22,12 @@
 
   }
 }
-
 @media screen and (max-width:767px) {
   .place {
-    grid-template-columns: 340px 1fr;
+    grid-template-columns: 400px;
   }
 }
-
-@media screen and (max-width: 690px) {
+@media screen and (max-width: 431px) {
   .place {
     grid-template-columns: 320px;
   }

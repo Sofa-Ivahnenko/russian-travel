@@ -11,14 +11,12 @@
 }
 @media screen and (max-width: 1023px) {
   .cover__subtitle {
-  margin: 0 auto;
   padding-bottom: 195px;
   }
   }
-  @media screen and (max-width: 767px) {
+  @media screen and (max-width: 769px) {
     .cover__subtitle {
     padding-bottom: 115px;
-    margin: 0 auto;
     }
   }
 @media screen and (max-width: 440px) {
