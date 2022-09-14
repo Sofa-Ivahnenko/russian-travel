@@ -12,13 +12,12 @@
   color: #fff;
   z-index: 2;
 }
-  @media screen and (max-width: 382px) {
+
+  @media screen and (max-width: 450px) {
     .cover__subtitle {
     max-width: 288px;
-    margin: 0 auto 33px auto;
     font-size: 14px;
     line-height: 16px;
-    padding: 0;
     }
   }
 
