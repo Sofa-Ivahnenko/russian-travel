@@ -23,4 +23,10 @@
     max-height: 600px;
   }
 }
+@media screen and (max-width:321px) {
+  .place__image {
+    max-width: 320px;
+    max-height: 320px;
+  }
+}
 
